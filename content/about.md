@@ -21,9 +21,9 @@ Zuerst hatte ich alle Rezepte in einem [zim](http://zim-wiki.org/) Wiki gesammel
 
 Da statisch generierte Webseiten für die meisten Suchmaschinen und Browser besser funktionieren, habe ich den Inhalt 2015 auf [urubu](https://github.com/jandecaluwe/urubu) migriert und zuerst auf [Uberspace](https://uberspace.de) und später [GitHub Pages](https://pages.github.com/) gehostet.
 
-Weil [urubu](https://github.com/jandecaluwe/urubu) scheinbar nicht mehr aktiv weiterentwickelt wird, hab ich das Kochbuch Anfang 2022 auf [Hugo](https://gohugo.io/) migriert und ihm eine eigene Domain verpasst: <https://cookhack.net>.
+Weil [urubu](https://github.com/jandecaluwe/urubu) scheinbar nicht mehr aktiv weiterentwickelt wird, hab ich das Kochbuch Anfang 2022 auf [Hugo](https://gohugo.io/) migriert und ihm eine eigene Domain verpasst: <https://einfachsatt.de>.
 
-Wenn ihr das Kochbuch lokal starten oder eure eigene Version entwickeln wollt, dann findet ihr den Quelltext und Installationsleitung dazu auf [GitHub](https://github.com/skoenig/cookhack).
+Wenn ihr das Kochbuch lokal starten oder eure eigene Version entwickeln wollt, dann findet ihr den Quelltext und Installationsleitung dazu auf [GitHub](https://github.com/skoenig/einfachsatt).
 
-Wenn ihr Fehler findet oder Verbesserungsvorschläge habt, reicht gerne ein [Issue](https://github.com/skoenig/cookhack/issues) ein. Es gilt die [UNLICENSE](/LICENSE.txt).
+Wenn ihr Fehler findet oder Verbesserungsvorschläge habt, reicht gerne ein [Issue](https://github.com/skoenig/einfachsatt/issues) ein. Es gilt die [UNLICENSE](/LICENSE.txt).
 

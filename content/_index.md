@@ -1,5 +1,5 @@
 ---
-title: Willkommen auf CookHack!
+title: Willkommen auf Einfach Satt!
 abstract: "Simple Rezepte für Leute, die sich gesund, aber einfach und lecker ernähren wollen."
 ---
 
